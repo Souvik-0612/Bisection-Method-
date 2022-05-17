@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+
 float f(float x){
 	//Define the function.
 	return sin(x)-cos(x) ;
